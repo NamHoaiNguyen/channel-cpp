@@ -8,8 +8,8 @@
 - [x] Support various types.
 - [x] When pushing data into closed channel is blocking. Fetching data from
 empty channel is also blocking.
-- [] Support unbuffered channel.
-- [] Channel is thread-safe(need to check).
+- [ ] Support unbuffered channel.
+- [ ] Channel is thread-safe(need to check).
 
 ## Requirements
 C++17 or newer
