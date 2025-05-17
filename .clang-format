@@ -1,0 +1,5 @@
+BasedOnStyle: Google  # or you can choose another base style like LLVM, Chromium, etc.
+IndentWidth: 2         # Set indentation width to 2 spaces
+TabWidth: 2            # Set tab width to 2 spaces
+UseTab: Never          # Don't use tabs, always use spaces
+ColumnLimit: 80

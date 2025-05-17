@@ -1,0 +1,7 @@
+Push message into channel with <<
+
+Read message from channe with >>
+
+Type of channel must be default constructible
+
+Support multithread and thread-safe
